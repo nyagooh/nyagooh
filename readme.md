@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Maina Anne](maina.dorik.io)!
+# 👋 Hello, I'm [Maina Anne](https://maina.dorik.io)!
 
 
 ## 👨‍💻 About Me
@@ -33,7 +33,7 @@ I am a passionate **UI/UX designer** and **full-stack developer** with expertise
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/maina-anne-37797820b/) 
 - [Medium](https://medium.com/@nyagooh) 
-- [Portfolio](maina.dorik.io) 
+- [Portfolio](https://maina.dorik.io) 
 
 ---
 
